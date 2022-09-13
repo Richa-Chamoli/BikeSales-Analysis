@@ -7,7 +7,7 @@
 # Tools used:
   Ms-Excel (Pivot tables and function)
   
-* Data Source
+# Data Source:
   [Excel Project Dataset.xlsx](https://github.com/Richa-Chamoli/BikeSales-Analysis/files/9557727/Excel.Project.Dataset.xlsx)
 
 # Tasks performed:
@@ -18,7 +18,8 @@
   * Creating an interactive dashboard
 
 # Final Dashboard
-  ![Screenshot (97)](https://user-images.githubusercontent.com/113079745/189919022-6a542622-77f3-4c9c-a19c-a633dcda5247.png)
+  ![Screenshot (102)](https://user-images.githubusercontent.com/113079745/189920469-eb7cc016-f999-40b8-b441-2657c1bfa73c.png)
+
 
 
 # Conclusion:

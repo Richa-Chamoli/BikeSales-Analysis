@@ -6,6 +6,9 @@
 
 # Tools used:
   Ms-Excel (Pivot tables and function)
+  
+* Data Source
+  [Excel Project Dataset.xlsx](https://github.com/Richa-Chamoli/BikeSales-Analysis/files/9557727/Excel.Project.Dataset.xlsx)
 
 # Tasks performed:
   * Cleaning of data
@@ -15,6 +18,8 @@
   * Creating an interactive dashboard
 
 # Final Dashboard
+  ![Screenshot (97)](https://user-images.githubusercontent.com/113079745/189919022-6a542622-77f3-4c9c-a19c-a633dcda5247.png)
+
 
 # Conclusion:
   * Males are buying more bikes than female so the focus should be more on males.

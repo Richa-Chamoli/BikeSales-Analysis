@@ -1,4 +1,4 @@
-# BikeSales-Dashboard
+# BikeSales-Analysis
 
 # Intro
   A company's bike sales data is given which includes data of customers from different regions, different age group, their income etc. 
